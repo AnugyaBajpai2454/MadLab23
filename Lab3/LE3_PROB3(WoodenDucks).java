@@ -1,0 +1,3 @@
+class WoodenDucks extends Ducks{
+
+}
